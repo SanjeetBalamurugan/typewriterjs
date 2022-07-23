@@ -1,4 +1,4 @@
-import './src/style.css'
+import * as css from './src/style.css'
 type QueueItem = () => Promise<void>
 
 export default class Typewriter {

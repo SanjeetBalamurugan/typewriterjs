@@ -1,7 +1,7 @@
 {
   "name": "@hyperspherestudios/typewriterjs",
-  "version": "0.0.3",
-  "type": "module",
+  "version": "0.0.4",
+  "type": "commonjs",
   "main": "Typewriter.js",
   "scripts": {
     "dev": "vite",
