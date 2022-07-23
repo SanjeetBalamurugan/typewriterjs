@@ -1,3 +1,28 @@
-.white-space {
+.whitespace {
   white-space: pre-wrap;
+}
+
+.blinkline::after {
+  content: '|';
+  font-size: large;
+  font-weight: 700;
+  animation: blink 1s linear infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: .5;
+  }
+
+  80% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
 }
