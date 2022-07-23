@@ -6,15 +6,15 @@
 
 You can use the CDN version of this plugin for fast and easy setup.
 
-<code type="html"></code>
+<pre>https://unpkg.com/@hyperspherestudios/typewriterjs@latest/Typewriter.js</pre>
 
 ## Installation
 
-You can install Typewriterjs with just one command and you're good to go
+You can install Typewriterjs with just one command and you're good to go but using cdn is best because there are some bugs
 
-# with npm
+## with npm
 
-npm i typewriter-effect
+<pre>npm i @hyperspherestudios/typewriterjs@0.0.2</pre>
 
 # Example
 
