@@ -2,7 +2,7 @@
   "name": "@hyperspherestudios/typewriterjs",
   "version": "0.0.2",
   "type": "module",
-  "main": "Typewriter.ts",
+  "main": "Typewriter.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
