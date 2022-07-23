@@ -1,0 +1,36 @@
+{
+  "name": "@hyperspherestudios/typewriterjs",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjeetBalamurugan/typewriterjs.git"
+  },
+  "keywords": [
+    "typewriter",
+    "typewriter-effect",
+    "es6",
+    "react",
+    "svelte",
+    "react-typewriter",
+    "react-typwriter-effect",
+    "svelte-typewriter",
+    "svelte-typwriter-effect"
+  ],
+  "author": "Sanjeet",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SanjeetBalamurugan/typewriterjs/issues"
+  },
+  "homepage": "https://github.com/SanjeetBalamurugan/typewriterjs#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.0.0"
+  }
+}
